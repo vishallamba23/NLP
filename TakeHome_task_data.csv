@@ -130,7 +130,7 @@ data,label,new_label
 "{'id': 'YIAGGH', 'data': 'Ok', 'message_order': 5, 'comments': ['']}",greeting,2
 "{'id': 'SDU5B6', 'data': 'Ll', 'message_order': 2, 'comments': ['']}",whoAreYou,6
 "{'id': '3OKT4Y', 'data': 'No', 'message_order': 2, 'comments': ['']}",greeting,4
-"{'id': '1C33WL', 'data': 'Sorry', 'message_order': 5, 'comments': ['']}",whoAreYou,5
+"{'id': '1C33WL', 'data': 'Sorry', 'message_order': 5, 'comments': ['']}",whoAreYou,2
 "{'id': 'VS4VEQ', 'data': 'Swiggy nai karna he merko', 'message_order': 2, 'comments': ['']}",notInterested,5
 "{'id': 'VHZG00', 'data': 'Hii', 'message_order': 1, 'comments': ['']}",location,3
 "{'id': '3JZ5TP', 'data': 'Ok', 'message_order': 1, 'comments': ['']}",greeting,2
@@ -232,7 +232,7 @@ data,label,new_label
 "{'id': 'ZA2AR7', 'data': 'K', 'message_order': 4, 'comments': ['']}",notInterested,2
 "{'id': 'CIBIVS', 'data': 'how r u', 'message_order': 4, 'comments': ['']}",whoAreYou,3
 "{'id': 'IH326X', 'data': 'बाइक नहीं है', 'message_order': 0, 'comments': ['']}",notInterested,3
-"{'id': '6B0G3F', 'data': '😅ok', 'message_order': 4, 'comments': ['']}",notInterested,3
+"{'id': '6B0G3F', 'data': '😅ok', 'message_order': 4, 'comments': ['']}",notInterested,2
 "{'id': 'Z6HKYO', 'data': 'Kk', 'message_order': 2, 'comments': ['']}",dontMeetRequirements,2
 "{'id': 'KOQJ9L', 'data': 'you dont have swiggy offic in thane', 'message_order': 5, 'comments': ['']}",whoAreYou,5
 "{'id': 'WYZL8Y', 'data': 'Ok', 'message_order': 0, 'comments': ['']}",whoAreYou,2
@@ -1060,11 +1060,11 @@ data,label,new_label
 "{'id': '4IRB9W', 'data': 'Thanks', 'message_order': 3, 'comments': ['']}",whoAreYou,3
 "{'id': '7BH1QX', 'data': ""I don't have a bike not even driving licence"", 'message_order': 0, 'comments': ['']}",whoAreYou,4
 "{'id': '2SI7HJ', 'data': 'K', 'message_order': 4, 'comments': ['']}",greeting,2
-"{'id': 'HB3IIR', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",greeting,4
-"{'id': 'XS8GIU', 'data': 'Hi', 'message_order': 3, 'comments': ['']}",greeting,4
-"{'id': 'PX6QJF', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",whoAreYou,4
-"{'id': 'DJAQN6', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",notInterested,4
-"{'id': 'T6WR9P', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",notInterested,4
+"{'id': 'HB3IIR', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",greeting,3
+"{'id': 'XS8GIU', 'data': 'Hi', 'message_order': 3, 'comments': ['']}",greeting,3
+"{'id': 'PX6QJF', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",whoAreYou,3
+"{'id': 'DJAQN6', 'data': 'Hi', 'message_order': 1, 'comments': ['']}",notInterested,3
+"{'id': 'T6WR9P', 'data': 'Hi', 'message_order': 5, 'comments': ['']}",notInterested,3
 "{'id': 'OEIZXM', 'data': 'Thanks', 'message_order': 4, 'comments': ['']}",greeting,3
 "{'id': 'THGW0X', 'data': ""Yes sir.. I didn't D L n bike"", 'message_order': 2, 'comments': ['']}",location,4
 "{'id': 'GJM13I', 'data': 'Hi', 'message_order': 4, 'comments': ['']}",dontMeetRequirements,3
